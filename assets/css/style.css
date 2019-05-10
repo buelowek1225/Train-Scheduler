@@ -1,0 +1,40 @@
+body  {
+    /* background-color: whitesmoke; */
+    background-image: url("../images/brick.jpeg");
+  }
+.jumbotron {
+    background-color: whitesmoke;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 30px;
+    text-align: center;
+    border: 1px black solid;
+}
+h1 {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.row {
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.card-header {
+    background-color: black;
+    color: white;
+}
+
+.btn-primary {
+    background-color: black;
+    color: white;
+    border-color:black;
+}
+
+.card {
+    border-color: black;
+}
